@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Badoi+Razvan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niculae+Darius!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Python </h3>
@@ -12,15 +12,15 @@
  
  👨‍💻 **I'm currently learning Python**
 
-💬 **Ask me about Lua / C++ Python or anything else here (kingrtxnova@gmail.com)**
-💬 **DISCORD : kingrtxnova_**
+💬 **Ask me Python or anything else here (niculaedariusanton@yahoo.com.com)**
+💬 **DISCORD : _pendyy**
 
  **⚡ “Getting it right the first time is not important at all. It's extremely important to get it right last time"**
 
  </div>
  
 <div align="center"> 
-  <a href="kingrtxnova@gmail.com">
+  <a href="niculaedariusanton@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   </a>
