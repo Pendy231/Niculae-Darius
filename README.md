@@ -12,7 +12,7 @@
  
  👨‍💻 **I'm currently learning Python**
 
-💬 **Ask me Python or anything else here (niculaedariusanton@yahoo.com.com)**
+💬 **Ask me Python or anything else here (strebop@gmail.com)**
 💬 **DISCORD : _pendyy**
 
  **⚡ “Getting it right the first time is not important at all. It's extremely important to get it right last time"**
@@ -20,10 +20,8 @@
  </div>
  
 <div align="center"> 
-  <a href="niculaedariusanton@yahoo.com">
+  <a href="mailto:strebop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  </a>
   </a>
 </div>
 
